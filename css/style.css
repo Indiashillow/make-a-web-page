@@ -1,0 +1,13 @@
+body {
+    font-family: Aerial;
+  padding: 20px 10px;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color:white
+    
+}
+H1{
+  text-align: center;
+  color: red;
+  background-color: black 
+}
